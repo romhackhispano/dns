@@ -1,0 +1,14 @@
+$TTL 3600
+@	IN SOA dns13.ovh.net. tech.ovh.net. (2016022900 86400 3600 3600000 300)
+                 IN NS     ns13.ovh.net.
+                 IN NS     dns13.ovh.net.
+                 IN MX 0   aspmx.l.google.com.
+                 IN A      188.165.135.94
+*                IN A      188.165.135.94
+foro             IN A      188.165.135.94
+list             IN CNAME  romhackhispano.github.io.
+mysql.old        IN A      69.163.225.124
+new              IN A      188.165.135.94
+old              IN A      69.163.225.124
+wiki             IN CNAME  ghs.googlehosted.com.
+www              IN CNAME  romhackhispano.github.io.
