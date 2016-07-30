@@ -19,3 +19,4 @@ wastor IN CNAME  ghs.googlehosted.com.
 dwx IN CNAME  romhackhispano.github.io.
 magno IN CNAME  romhackhispano.github.io.
 eden IN CNAME  romhackhispano.github.io.
+okami IN CNAME  romhackhispano.github.io.
