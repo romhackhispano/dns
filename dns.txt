@@ -18,3 +18,4 @@ devil IN CNAME  romhackhispano.github.io.
 wastor IN CNAME  ghs.googlehosted.com.
 dwx IN CNAME  romhackhispano.github.io.
 magno IN CNAME  romhackhispano.github.io.
+eden IN CNAME  romhackhispano.github.io.
