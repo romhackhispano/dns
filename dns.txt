@@ -1,22 +1,23 @@
 $TTL 3600
-@	IN SOA dns13.ovh.net. tech.ovh.net. (2016022900 86400 3600 3600000 300)
+@	IN SOA dns13.ovh.net. tech.ovh.net. (2016073100 86400 3600 3600000 300)
                  IN NS     ns13.ovh.net.
                  IN NS     dns13.ovh.net.
                  IN MX 0   aspmx.l.google.com.
                  IN A      188.165.135.94
+                 IN TXT    "google-site-verification=f0C82lyF5Tx1Lpw9Q1L9Ff0dJGCoH3YyydD8TYlY2r8"
 *                IN A      188.165.135.94
+aegis            IN A      66.6.44.4
+devil            IN CNAME  romhackhispano.github.io.
+dwx              IN CNAME  romhackhispano.github.io.
+eden             IN CNAME  romhackhispano.github.io.
 foro             IN A      188.165.135.94
 list             IN CNAME  romhackhispano.github.io.
+magno            IN CNAME  romhackhispano.github.io.
 mysql.old        IN A      69.163.225.124
 new              IN A      188.165.135.94
+okami            IN CNAME  romhackhispano.github.io.
 old              IN A      69.163.225.124
+wastor           IN CNAME  ghs.googlehosted.com.
 wiki             IN CNAME  ghs.googlehosted.com.
 www              IN CNAME  romhackhispano.github.io.
-aegis            IN A      66.6.44.4
-xenogears IN CNAME  romhackhispano.github.io.
-devil IN CNAME  romhackhispano.github.io.
-wastor IN CNAME  ghs.googlehosted.com.
-dwx IN CNAME  romhackhispano.github.io.
-magno IN CNAME  romhackhispano.github.io.
-eden IN CNAME  romhackhispano.github.io.
-okami IN CNAME  romhackhispano.github.io.
+xenogears        IN CNAME  romhackhispano.github.io.
