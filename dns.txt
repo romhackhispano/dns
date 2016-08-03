@@ -18,6 +18,6 @@ new              IN A      188.165.135.94
 okami            IN CNAME  romhackhispano.github.io.
 old              IN A      69.163.225.124
 wastor           IN CNAME  ghs.googlehosted.com.
-wiki             IN CNAME  ghs.googlehosted.com.
+wiki             IN CNAME  romhackhispano.github.io.
 www              IN CNAME  romhackhispano.github.io.
 xenogears        IN CNAME  romhackhispano.github.io.
