@@ -22,3 +22,4 @@ wiki             IN CNAME  romhackhispano.github.io.
 www              IN CNAME  romhackhispano.github.io.
 xenogears        IN CNAME  romhackhispano.github.io.
 oldcastlestreet        IN CNAME  romhackhispano.github.io.
+paladintranslations IN CNAME  romhackhispano.github.io.
