@@ -4,7 +4,6 @@ $TTL 3600
                  IN NS     dns13.ovh.net.
                  IN MX 0   aspmx.l.google.com.
                  IN A      188.165.135.94
-                 IN TXT    "google-site-verification=f0C82lyF5Tx1Lpw9Q1L9Ff0dJGCoH3YyydD8TYlY2r8"
 *                IN A      188.165.135.94
 aegis            IN CNAME  romhackhispano.github.io.
 devil            IN CNAME  romhackhispano.github.io.
@@ -17,7 +16,7 @@ mysql.old        IN A      69.163.225.124
 new              IN A      188.165.135.94
 okami            IN CNAME  romhackhispano.github.io.
 old              IN A      69.163.225.124
-wastor           IN CNAME  ghs.googlehosted.com.
+wastor           IN CNAME  romhackhispano.github.io.
 wiki             IN CNAME  romhackhispano.github.io.
 www              IN CNAME  romhackhispano.github.io.
 xenogears        IN CNAME  romhackhispano.github.io.
