@@ -24,3 +24,4 @@ oldcastlestreet        IN CNAME  romhackhispano.github.io.
 paladintranslations IN CNAME  romhackhispano.github.io.
 portalofromhack IN CNAME  romhackhispano.github.io.
 darkn IN CNAME  romhackhispano.github.io.
+nexo-hispano IN CNAME  romhackhispano.github.io.
