@@ -29,3 +29,4 @@ portalofromhack IN CNAME  romhackhispano.github.io.
 darkn IN CNAME  romhackhispano.github.io.
 nexo-hispano IN CNAME  romhackhispano.github.io.
 traduccionestapia-jekyll IN CNAME romhackhispano.github.io.
+fortaleza IN CNAME romhackhispano.github.io.
