@@ -31,3 +31,4 @@ nexo-hispano IN CNAME  romhackhispano.github.io.
 traduccionestapia-jekyll IN CNAME romhackhispano.github.io.
 fortaleza IN CNAME romhackhispano.github.io.
 sayans IN CNAME romhackhispano.github.io.
+www.sayans IN CNAME romhackhispano.github.io.
