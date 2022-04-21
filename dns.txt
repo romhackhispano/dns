@@ -22,7 +22,6 @@ www              IN CNAME  romhackhispano.github.io.
 blog             IN CNAME  romhackhispano.github.io.
 xenogears        IN CNAME  romhackhispano.github.io.
 klint-psk        IN CNAME  romhackhispano.github.io.
-tiovictor-wp     IN A      188.165.135.94
 tiovictor        IN CNAME  romhackhispano.github.io.
 oldcastlestreet IN CNAME  romhackhispano.github.io.
 paladintranslations IN CNAME  romhackhispano.github.io.
